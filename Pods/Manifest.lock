@@ -1,0 +1,26 @@
+PODS:
+  - KeychainSwift (20.0.0)
+  - SDWebImage (5.18.3):
+    - SDWebImage/Core (= 5.18.3)
+  - SDWebImage/Core (5.18.3)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - KeychainSwift
+  - SDWebImage
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - KeychainSwift
+    - SDWebImage
+    - SnapKit
+
+SPEC CHECKSUMS:
+  KeychainSwift: 0ce6a4d13f7228054d1a71bb1b500448fb2ab837
+  SDWebImage: 96e0c18ef14010b7485210e92fac888587ebb958
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 151fb74080dd937ea70cae79a0c20893cf15a77c
+
+COCOAPODS: 1.12.0
